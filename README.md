@@ -2,7 +2,7 @@
 
 <img align="right" style="width:450px;height:300px;" src="https://i.gifer.com/origin/60/60120cc1d020a156a8401a3a2db12c4d.gif" />
 
-game programmer working at **Izyplay Game Studio** using mostly Unity. I'm into game optimization and building engaging gameplay systems. 
+game programmer working at **Izyplay Game Studio** using mostly Unity. I turn game design ideas into gameplay, and I like working where art, UX and code meet.
 
 besides work, I'm also making some games as personal projects that I want to release 👀
 
@@ -16,7 +16,7 @@ besides work, I'm also making some games as personal projects that I want to rel
 <!-- <h3>⚡️ currently:</h3> -->
 <ul>
 <li>graduated in Digital Games (technologist degree) from PUC Minas</li>
-<li>studying about <strong>game systems design</strong>, and <strong>game programming patterns</strong></li>
+<li>studying <strong>game systems design</strong> and <strong>game programming patterns</strong></li>
 </ul>
 
 <br>
