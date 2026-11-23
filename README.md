@@ -2,7 +2,11 @@
 
 <img align="right" style="width:450px;height:300px;" src="https://i.gifer.com/origin/60/60120cc1d020a156a8401a3a2db12c4d.gif" />
 
-I work as a game programmer at **Izyplay Game Studio**. Most of the time I'm using Unity, but I love to learn everything related to game dev. I'm also very interested in render pipelines, shaders, software architecture and game optimizations
+game programmer working at **Izyplay Game Studio** using mostly Unity. I'm into game optimization and building engaging gameplay systems. 
+
+i enjoy studying software architecture and I like writing clean and reusable code while keeping performance and scalability. 
+
+besides work, I'm also making some games as personal projects that I want to release
 
 > you can find me here:
 
@@ -13,16 +17,15 @@ I work as a game programmer at **Izyplay Game Studio**. Most of the time I'm usi
 
 <!-- <h3>⚡️ currently:</h3> -->
 <ul>
-<li>graduated with an undergraduate degree in Digital Games from PUC Minas.</li>
-<li>studying about <strong>shaders</strong>, and <strong>game programming patterns</strong></li>
-<li>and developing an unique roguelike game 👀</li>
+<li>graduated in Digital Games (technologist degree) from PUC Minas</li>
+<li>studying about <strong>game systems design</strong>, and <strong>game programming patterns</strong></li>
 </ul>
 
 <br>
 <br>
 <div align="center">
   
-  | <img align="center" src="https://github-stats-extended.vercel.app/api?username=lucscout&show_icons=true&include_all_commits=true&theme=moltack&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github" alt="lucscout's github stats" /> | <img align="center" src="https://github-stats-extended.vercel.app/api/wakatime?username=lucasctnh&range=last_year&layout=compact&theme=moltack&custom_title=Lucas%20Coutinho%27s%20Yearly%20WakaTime%20Stats" alt="lucscout's yearly wakatime stats" /> |
+  | <img align="center" src="https://github-stats-extended.vercel.app/api?username=lucscout&show_icons=true&include_all_commits=true&theme=moltack&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github" alt="lucscout's github stats" /> | <img align="center" src="https://github-stats-extended.vercel.app/api/wakatime?username=lucasctnh&range=last_year&layout=compact&theme=moltack&custom_title=lucas%20coutinho%27s%20yearly%20WakaTime%20Stats" alt="lucscout's yearly wakatime stats" /> |
   | ------------- | ------------- |
   
 </div>
