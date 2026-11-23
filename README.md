@@ -4,9 +4,7 @@
 
 game programmer working at **Izyplay Game Studio** using mostly Unity. I'm into game optimization and building engaging gameplay systems. 
 
-i enjoy studying software architecture and I like writing clean and reusable code while keeping performance and scalability. 
-
-besides work, I'm also making some games as personal projects that I want to release
+besides work, I'm also making some games as personal projects that I want to release 👀
 
 > you can find me here:
 
